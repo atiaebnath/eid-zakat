@@ -1,0 +1,268 @@
+body {
+    font-family: 'Poppins', sans-serif;
+    margin: 0px;
+}
+
+h1 {
+    font-size: 70px;
+    font-weight: 700;
+}
+
+p {
+    font-size: 25px;
+    text-align: justify;
+}
+
+.eid-zakat-head {
+    background-image: url(image/gettyimages-72898825-2048x2048.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 800px;
+}
+
+.top-banner {
+    color: white;
+    padding-left: 200px;
+    padding-right: 50%;
+    padding-top: 150px;
+    text-shadow: 10px 10px 20px rgb(46, 44, 44);
+}
+
+.first-B {
+    background-image: linear-gradient(red, tomato);
+    text-decoration: none;
+    color: white;
+    padding: 15px 30px;
+    font-size: 20px;
+    border-radius: 30px;
+}
+
+.live-depend {
+    display: flex;
+    margin-top: 100px;
+
+
+}
+
+.firt-head {
+    width: 100%;
+    padding-right: 100px;
+    padding-left: 150px;
+    padding-top: 50px;
+}
+
+.picture {
+    width: 100%;
+    padding-right: 90px;
+
+}
+
+.picture iframe {
+    width: 90%;
+    height: 500px;
+    padding-top: 100px;
+
+}
+
+
+
+.section-2 {
+    display: flex;
+    margin-top: 100px;
+}
+
+.image-2 {
+    width: 100%;
+    padding-left: 150px;
+}
+
+.image-2 img {
+    width: 95%;
+
+}
+
+.first-2 {
+    width: 100%;
+    padding-left: 110px;
+    padding-right: 130px;
+
+}
+
+.Depend-2 {
+    text-align: center;
+    font-size: 30px;
+    padding-left: 300px;
+    padding-right: 300px;
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
+
+.part-1 {
+    display: flex;
+
+    text-align: justify;
+
+}
+
+
+
+.img-part1 {
+    width: 100%;
+    background-color: rgb(233, 205, 196);
+    margin-left: 200px;
+    margin-right: 50px;
+    padding: 40px 40px;
+
+}
+
+.img-part2 {
+    width: 100%;
+    background-color: rgb(233, 205, 196);
+    margin-left: 50px;
+    margin-right: 200px;
+    padding: 40px 40px;
+}
+
+.part-2 {
+    display: flex;
+    margin-top: 100px;
+    text-align: justify;
+
+}
+
+.img-part3 {
+    width: 100%;
+    background-color: rgb(233, 205, 196);
+    margin-left: 50px;
+    margin-right: 200px;
+    padding: 40px 40px;
+}
+
+.img-part4 {
+    width: 100%;
+    background-color: rgb(233, 205, 196);
+    margin-left: 200px;
+    margin-right: 50px;
+    padding: 40px 40px;
+}
+
+.zakat-giving {
+    width: 85%;
+    margin-top: 120px;
+    padding-left: 170px;
+    padding-right: 100px;
+
+
+
+}
+
+.zakat-done img {
+    width: 30%;
+    border-radius: 20px;
+    height: 450px;
+}
+
+#middle-image {
+    margin-left: 50px;
+    margin-right: 50px;
+    border-radius: 20px;
+}
+
+.heading-2 {
+    text-align: center;
+    font-size: 30px;
+    padding: 300px;
+    padding-top: 100px;
+}
+
+.container {
+    display: flex;
+
+    font-size: 30px;
+
+}
+
+.anchor {
+    color: red;
+    font-size: 20px;
+}
+
+.container {
+    display: flex;
+    text-align: justify;
+    width: 90%;
+    margin-left: 100px;
+    margin-bottom: 100px;
+}
+
+.zakat-fund1 {
+    width: 50%;
+    border: 2px solid rgb(187, 182, 182);
+    border-radius: 20px;
+
+    margin: 20px;
+
+
+}
+
+.zakat-fund1 h3 p a {
+    padding: 20px;
+}
+
+.zakat-fund1 img {
+    width: 510px;
+    height: 400px;
+}
+
+.zakat-fund2 {
+    width: 50%;
+    border: 2px solid rgb(187, 182, 182);
+    border-radius: 20px;
+    padding: 20px;
+    margin: 20px;
+
+}
+
+.zakat-fund2 h3 p a {
+    padding: 20px;
+}
+
+.zakat-fund2 img {
+    width: 510px;
+    height: 400px;
+}
+
+
+
+.zakat-fund3 {
+    width: 50%;
+    border: 2px solid rgb(187, 182, 182);
+    border-radius: 20px;
+    padding: 20px;
+    margin: 20px;
+
+}
+
+.zakat-fund3 h3 p a {
+    padding: 20px;
+}
+
+.zakat-fund3 img {
+    width: 510px;
+    height: 400px;
+}
+
+.footer-part {
+    text-align: center;
+    color: rgb(255, 17, 17);
+    background-color: black;
+    height: 300px;
+
+    font-size: 20px;
+    padding-top: 10px;
+}
+
+footer p {
+    text-align: center;
+    font-style: italic;
+}
